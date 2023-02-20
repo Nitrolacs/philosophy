@@ -1,0 +1,90 @@
+body {
+	background-color: #2A333F !important;
+}
+
+.title {
+	background: url("../images/img1.png") no-repeat center;
+	width: 1920px;
+	height: 1087px;
+}
+
+h1.title-head {
+	color: white !important;
+	font-size: 64px !important;
+	font-weight: 800 !important;
+	padding-top: 178px;
+	padding-left: 276px;
+	margin: 0;
+}
+
+.text {
+	font-size: 32px;
+	color: white;
+	font-weight: normal;
+	width: 445px;
+	text-align: right;
+	margin-left: 265px;
+	margin-top: 71px;
+}
+
+.body1 {
+	width: 1920px;
+	height: 1104px;
+	background: url("../images/img2.png") no-repeat center;
+}
+
+h2.body1-head {
+	color: white !important;
+	font-size: 32px !important;
+	font-weight: 800 !important;
+
+	margin: 0;
+}
+
+.text2 {
+	font-weight: normal;
+	width: 450px;
+	font-size: 18px;
+}
+
+.text3 {
+	font-weight: normal;
+	width: 530px;
+	font-size: 26px;
+}
+
+.body2 {
+	width: 1920px;
+	height: 1304px;
+	background: url("../images/img3.png") no-repeat center;
+}
+
+.body3 {
+	width: 1920px;
+	height: 1304px;
+	background: url("../images/img4.png") no-repeat center;
+}
+
+.text4 {
+	font-weight: normal;
+	width: 630px;
+	font-size: 22px;
+}
+
+.body4 {
+	width: 1920px;
+	height: 1704px;
+	background: url("../images/img5.png") no-repeat center;
+}
+
+.text5 {
+	font-weight: normal;
+	width: 530px;
+	font-size: 22px;
+}
+
+.body5 {
+	width: 1920px;
+	height: 787px;
+	background: url("../images/img6.png") no-repeat center;
+}
